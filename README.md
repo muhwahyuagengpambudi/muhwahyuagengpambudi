@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhwahyuagengpambudi&label=Profile%20views&color=0e75b6&style=flat" alt="muhwahyuagengpambudi" /> </p>
 
-- 💬 Ask me about **bootstrap 5**
+- 💬 Ask me about **bootstrap 5,React.js**
 
 - 📫 How to reach me **agengw825@gmail.com**
 
