@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muh Wahyu Ageng Pambudi</h1>
 <h3 align="center">I'm front-end developer from Indonesia</h3>
-<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhwahyuagengpambudi&label=Profile%20views&color=0e75b6&style=flat" alt="muhwahyuagengpambudi" /> </p>
 
