@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋🏻, I'm Muh Wahyu Ageng Pambudi</h1>
-<h3 align="center">always grateful and always trying.</h3>
+<h3 align="center">always Happy.</h3>
+<h4 align="center">Students of SMK Raden Umar Said</h4>
 </br>
 <img align="right" alt="Coding" width="366" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
