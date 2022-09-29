@@ -3,10 +3,6 @@
 </br>
 <img align="right" alt="Coding" width="366" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### Connect with me:
-
-
-<a href="https://www.instagram.com/wahyuupambudi_/?hl=id" target="_blank"><img align="left" alt="wahyuu_pambudi | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 <br />
 <br />
