@@ -17,7 +17,6 @@
 <img align="left" alt="flutter" width="30px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"/>
 <img align="left" alt="java" width="30px" src="https://academy.alterra.id/blog/wp-content/uploads/2021/06/java.png"/>
 <img align="left" alt="tailwind-css" width="30px" src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" />
-<img align="left" alt="sass-css" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />  
 
 <br />
 <br />
