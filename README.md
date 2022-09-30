@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏻, I'm Muh Wahyu Ageng Pambudi</h1>
 <h3 align="center">I'm Students Of SMK Raden Umar Said</h3>
 </br>
-<img align="right" alt="Coding" width="366" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <br />
