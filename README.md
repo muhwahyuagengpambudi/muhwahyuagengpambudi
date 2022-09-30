@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://fb.com/javier gavra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javier gavra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/wahyuupambudi_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahyuupambudi_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ian fgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ian fgf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCf5DD1IMalGyDZYCweFfc6Q/channels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ian fgf" height="30" width="40" /></a>
 </p>
 
 ---
